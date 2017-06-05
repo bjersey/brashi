@@ -5,6 +5,7 @@
 
 ## August
 * Belize
+* Acadia
 
 ## September
 * Hamptons
